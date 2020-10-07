@@ -1,1 +1,2 @@
-# Predicting-Credit-Card-Approvals
+# predicting-credit-card-approvals
+This is a project from datacamp.com’s ML projects repertoire. In this project, credit card application approvals were predicted by building a classification model using logistic regression. The dataset was extracted from UCI’s Machine Learning Repository and the prompts in the notebooks belong to Datacamp.com. I do not claim to be the author of the notebook for this analysis. Only the codes have been modified by me with the purpose of data science practice.
